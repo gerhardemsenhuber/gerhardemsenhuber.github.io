@@ -10,3 +10,8 @@ Walter Hartwell White Sr., also known by his clandestine alias Heisenberg, is a 
 * Mr. Lambert
 * Mr. Mayhew
 * Walt Jackson
+
+Walter White said:
+
+> We're done
+> when I say we're done.
